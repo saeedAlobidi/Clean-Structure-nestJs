@@ -1,0 +1,16 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type User {
+  name: String!
+  gender: Float!
+  description: String!
+  filename: String!
+  views: Float!
+  isPublished: Boolean!
+}
+
+type Query {
+  GetAllUsers: [User!]!
+}
