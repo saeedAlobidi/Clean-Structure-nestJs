@@ -1,7 +1,7 @@
 
 #  Clean-Structure-RestJs
 
-this is an example of a simple CRUD  RestJs Framework api 
+this is an example of a simple CRUD  NestJs Framework api 
 
 <image src="https://docs.nestjs.com/assets/logo-small.svg" alt="clean architecture NestJs"/>
 
